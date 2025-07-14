@@ -1,16 +1,26 @@
-# edu_track
+# EduTrack
 
-A new Flutter project.
+EduTrack is a cross-platform **School Management System** mobile app built with **Flutter** and **Firebase**. It enables teachers to publish student results, assignments, and attendance, while students can easily access their academic information in real time.
+
+## Features
+
+- Role-based login for **Teachers** and **Students**
+- Teachers can publish exam results, upload assignments, and mark attendance
+- Students can view their results, download assignments, and check attendance
+- Real-time updates using Firebase Firestore
+- Secure authentication with Firebase Auth
+- Clean and responsive UI built with Flutter
+
+## Tech Stack
+
+- Flutter (Dart)
+- Firebase Core
+- Firebase Authentication
+- Cloud Firestore
+- Provider (State Management)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/EduTrack.git
